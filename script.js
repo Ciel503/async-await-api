@@ -34,3 +34,4 @@ const carregar = async () => {
 }
 
 botao.addEventListener('click', carregar);
+/*franciel*/
